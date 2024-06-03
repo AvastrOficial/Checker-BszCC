@@ -9,3 +9,4 @@ vercion : 0.0.0 https://replit.com/@StrAva1/Cheker-BszCC?v=1
 Utilizamos una api :  https://github.com/OshekharO/MASS-CC-CHECKER/blob/main/api.php 
 > Culla api es local podras validar 1000 tajetas por minuto..
 
+![image](https://github.com/AvastrOficial/Checker-BszCC/assets/91764815/792da002-3d41-4f26-9939-c9692088292f)
