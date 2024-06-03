@@ -6,3 +6,6 @@
 vercion : 0.0.0 https://replit.com/@StrAva1/Cheker-BszCC?v=1
 
 ### como funciona ?
+Utilizamos una api :  https://github.com/OshekharO/MASS-CC-CHECKER/blob/main/api.php 
+> Culla api es local podras validar 1000 tajetas por minuto..
+
